@@ -1,4 +1,4 @@
-# Clock Program - CS 210 Project
+# CS-210 Project One Chada Tech Clocks Program
 
 ## Overview
 This project, developed as part of CS 210 at Southern New Hampshire University, is a C++ application that simulates a 12-hour and 24-hour clock. It allows users to set the initial time, add hours, minutes, or seconds to the time, and display the updated time in both 12-hour and 24-hour formats.
