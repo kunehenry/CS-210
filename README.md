@@ -1,4 +1,3 @@
-```markdown
 # Clock Program - CS 210 Project
 
 ## Overview
