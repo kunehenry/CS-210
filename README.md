@@ -33,9 +33,3 @@ After starting the program, follow the on-screen prompts:
 1. Set the initial time when prompted.
 2. Choose an option to add hours, minutes, or seconds, or to exit the program.
 3. The updated time will be displayed after each operation.
-
-## Contributions
-This project was developed by Dat Nguyen. Contributions, suggestions, and feedback are welcome.
-
-## License
-This project is licensed under the terms of the MIT license.
